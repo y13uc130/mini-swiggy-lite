@@ -191,6 +191,7 @@ class Cart extends Component {
       cart_items,
       suggestion
      } = this.state;
+     // not needed for demo
     //  if(!this.orderAllowed()) {
     //    this.setState({
     //      outOfDeliveryTime: true
